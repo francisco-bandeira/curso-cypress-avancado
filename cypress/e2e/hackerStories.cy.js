@@ -129,7 +129,7 @@ describe('Hacker Stories', () => {
         Cypress._.times(6, () => {
           cy.get('#search')
             .clear()
-            .type(`${faker.random.word()}{enter}`)
+            .type(`${faker.word.word()}{enter}`)
         })
 
         cy.assertLoadingIsShownAndHidden()

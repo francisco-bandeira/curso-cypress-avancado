@@ -1,6 +1,6 @@
 # Testes Automatizados com Cypress - Avançado
 
-👋 Seja bem vindo(a)!
+👋 Seja bem-vindo(a)!
 
 É muito bom tê-lo(a) aqui. Tenho certeza que você vai adorar este curso. ❤️
 
@@ -19,7 +19,7 @@ Durante o curso avançado de Cypress, você vai aprender:
 - Como simplificar comandos repetitivos
 - Como interceptar e mockar uma API externa para testar o frontend independente do backend
 - Como simular erros no servidor e na rede
-- Como simular lentidão na chamada à uma API
+- Como simular lentidão na chamada a uma API
 - Como modificar o relatório de testes padrão para um que combine com o seu estilo 😉
 
 ## Vamos começar?
